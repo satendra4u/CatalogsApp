@@ -1,0 +1,80 @@
+{
+	"sections":[{
+	"header":"Catalogs",
+	"id":"CatalogID",
+	"elements":[
+		{
+		"type":"root",
+		"title":"Electronics",
+		"sections":[
+			{	
+				"header":"",
+				"elements":[
+					{
+						"type": "html",
+						"caption": "Electronics1",
+						"id":"ElectronicsID1",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"
+					},
+					{
+						"type": "html",
+						"caption": "Electronics2",
+						"id":"ElectronicsID2",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"
+						
+					},
+					{
+						"type": "html",
+						"caption": "Electronics3",
+						"id":"ElectronicsID3",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"
+							
+					},
+					{
+						"type": "html",
+						"caption": "Electronics4",
+						"id":"ElectronicsID4",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"
+							
+					},
+					{
+						"type": "html",
+						"caption": "Electronics5",
+						"id":"ElectronicsID5",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"
+							
+					}
+					] 	
+			}]
+		},
+		{
+		"type":"root",
+		"title":"Electrical",
+		"sections":[
+			{	
+				"header":"",
+				"elements":[
+					{
+						"type": "html",
+						"caption": "Electrical1",
+						"id":"ElectricalID1",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"	
+					},
+					{
+						"type": "html",
+						"caption": "Electrical2",
+						"id":"ElectricalID2",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"	
+					},
+					{
+						"type": "html",
+						"caption": "Electrical3", 
+						"id":"ElectricalID3",
+						"url": "http://www.littelfuse.com/about-us/~/media/Files/Littelfuse/Technical%20Resources/Documents/Product%20Catalogs/Content/OE101.pdf"	
+					}] 	
+			}]
+		}]
+	}]
+	
+}
+	
