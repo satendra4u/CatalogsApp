@@ -20,7 +20,7 @@ namespace HelloWorldIphoneApp
 	public partial class AppDelegate : UIApplicationDelegate
 	{
 		// class-level declarations
-
+		// Satyen was here
 		public UIWindow window;
 		public UINavigationController _navController;
 		public DialogViewController _rootViewController;
