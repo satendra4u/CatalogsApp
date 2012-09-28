@@ -84,9 +84,18 @@ namespace HelloWorldIphoneApp
 
 			_rootViewController = new DialogViewController(new RootElement("Littelfuse") {
 					
-					new Section(""){},
+					new Section() {},
 					new Section (myAnimatedView){},
-					
+					new Section("Catalogs")
+					{
+//						new RootElement("Test", delegate 
+//						{
+						new RootElement("Catalogs") {
+							showSublements()
+
+						}
+//						})
+					},	
 
 					JsonElement.FromFile("element.json")
 				
@@ -145,6 +154,11 @@ namespace HelloWorldIphoneApp
 		}
 
 
+		JsonElement showSublements ()
+		{
+//			throw new NotImplementedException ();
+			return JsonElement.FromFile("element.json");
+		}
 	}
 }
 
