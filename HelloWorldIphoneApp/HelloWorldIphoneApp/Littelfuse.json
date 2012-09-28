@@ -1,0 +1,31 @@
+{
+	"title" : "Littelfuse",
+	"sections":[
+	{
+	"header":"",
+	"id":"BlankSectionID1"
+	}],
+	"sections":[
+	{
+	"header":"myAnimatedView",
+	"id":"myAnimatedViewID"
+	}],
+	"sections":[
+	{
+	"header":"",
+	"id":"BlankSectionID2"
+	}],
+	"sections":[
+	{
+	"header":"Catalogs",
+	"id":"CatalogID",
+	"elements":[
+		{
+			"type": "root",
+			"title": "Electrnoics",
+			"id":"ElectronicsID"	
+		}]
+	}]
+}
+	
+		

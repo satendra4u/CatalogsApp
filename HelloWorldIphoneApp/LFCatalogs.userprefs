@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldIphoneApp/AppDelegate.cs">
+    <Files>
+      <File FileName="HelloWorldIphoneApp/element.json" Line="8" Column="25" />
+      <File FileName="HelloWorldIphoneApp/AppDelegate.cs" Line="8" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="LFCatalogs" expanded="True">
+            <Node name="AppDelegate.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LFCatalogsV1>
+    <IPhoneTestFlightSettings_27CRelease ApiToken="c9f68a847d428e817123c6f05532a8be_NjQxNzk5MjAxMi0wOS0yMyAyMTozNDoxNi44NjA2MTI" TeamToken="5bf4a8e82aa62862f26474190fd9b516_MTM1MjQ5MjAxMi0wOS0yMyAyMDozNjo0NS45NzA2MTM" ReleaseNotes="Sprint 1" NotifyTeamMembers="False" ReplaceBinaries="True" DistributionLists="Sprint 1" />
+    <IPhoneTestFlightSettings_27CDebug ApiToken="c9f68a847d428e817123c6f05532a8be_NjQxNzk5MjAxMi0wOS0yMyAyMTozNDoxNi44NjA2MTI" TeamToken="5bf4a8e82aa62862f26474190fd9b516_MTM1MjQ5MjAxMi0wOS0yMyAyMDozNjo0NS45NzA2MTM" ReleaseNotes="LFCatalogs withj Json" NotifyTeamMembers="False" ReplaceBinaries="True" DistributionLists="v2.0" />
+  </MonoDevelop.Ide.ItemProperties.LFCatalogsV1>
+</Properties>
