@@ -1,15 +1,27 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldIphoneApp/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldIphoneApp/element.json">
     <Files>
-      <File FileName="HelloWorldIphoneApp/AppDelegate.cs" Line="11" Column="27" />
+      <File FileName="HelloWorldIphoneApp/AppDelegate.cs" Line="25" Column="48" />
+      <File FileName="HelloWorldIphoneApp/element.json" Line="17" Column="97" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
-          <Option id="ShowAllFiles" value="True" />
+        <State expanded="True">
           <Node name="LFCatalogsV1" expanded="True" />
         </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Liga</Value>
+          <Value>navigation</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
